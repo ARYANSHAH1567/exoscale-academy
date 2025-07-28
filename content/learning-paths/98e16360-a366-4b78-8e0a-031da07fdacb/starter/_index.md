@@ -5,6 +5,6 @@ description: "This STARTER - Learning Path is the foundation for building Exosca
 banner: "images/exoscale-icon.png"
 weight: 5
 tags: [cloud,exoscale]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

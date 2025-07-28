@@ -4,6 +4,6 @@ description: "Explains the advantages of cloud storage, including scalability, a
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

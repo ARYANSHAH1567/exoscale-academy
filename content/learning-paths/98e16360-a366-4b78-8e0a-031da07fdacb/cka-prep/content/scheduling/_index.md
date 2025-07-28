@@ -4,7 +4,7 @@ description: "Learn Pod placement strategies using labels, taints, affinities an
 title: "Scheduling Pods"
 weight: 4
 tags: [CKA, kubernetes, job]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

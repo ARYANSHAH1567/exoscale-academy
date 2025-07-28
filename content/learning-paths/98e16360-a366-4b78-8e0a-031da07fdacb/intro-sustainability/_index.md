@@ -5,6 +5,6 @@ description: "Welcome to our introductory course on Sustainability at Exoscale. 
 banner: "images/exoscale-icon.png"
 weight: 2
 tags: [sustainability]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

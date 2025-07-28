@@ -5,5 +5,5 @@ weight: 8
 banner: "images/storage.png"
 tags: [kubernetes, storage, kubernetes-resources]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

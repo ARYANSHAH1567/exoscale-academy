@@ -5,7 +5,7 @@ weight: 4
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, troubleshooting]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 
 ---
 

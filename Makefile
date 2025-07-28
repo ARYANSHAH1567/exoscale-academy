@@ -30,6 +30,10 @@ site: check-go
 build:
 	hugo build
 
+## Build site for local consumption
+build-preview:
+	hugo --baseURL=$(BASEURL)
+
 ## Empty build cache and run on your local machine.
 clean: 
 	hugo --cleanDestinationDir

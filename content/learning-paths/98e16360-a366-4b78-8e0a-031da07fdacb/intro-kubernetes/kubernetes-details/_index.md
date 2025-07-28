@@ -4,6 +4,6 @@ description: "Explore the intricate details of Kubernetes, its architecture, com
 banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [kubernetes]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

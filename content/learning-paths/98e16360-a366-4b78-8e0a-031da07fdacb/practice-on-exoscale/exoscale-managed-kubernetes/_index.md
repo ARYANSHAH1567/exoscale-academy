@@ -6,7 +6,7 @@ courseTitle: "Exoscale-managed Kubernetes"
 weight: 2
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, sks, infrastructure]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

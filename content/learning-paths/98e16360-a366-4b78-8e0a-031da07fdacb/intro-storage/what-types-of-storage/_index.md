@@ -4,6 +4,6 @@ description: "An overview of the main cloud storage types block, file, and objec
 banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

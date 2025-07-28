@@ -6,6 +6,6 @@ banner: "images/exoscale-icon.png"
 courses: 1
 weight: 4
 tags: [pricing]
-level: [introductory]
+level: "beginner"
 categories: [exoscale]
 ---

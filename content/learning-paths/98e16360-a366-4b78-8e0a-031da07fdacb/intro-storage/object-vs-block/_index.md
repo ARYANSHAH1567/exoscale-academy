@@ -4,7 +4,7 @@ description: "A comparison of object and block storage, highlighting their diffe
 banner: "images/exoscale-icon.svg"
 weight: 7
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

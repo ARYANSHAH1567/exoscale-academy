@@ -4,6 +4,6 @@ description: "A hierarchical storage method that organizes data in files and fol
 banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

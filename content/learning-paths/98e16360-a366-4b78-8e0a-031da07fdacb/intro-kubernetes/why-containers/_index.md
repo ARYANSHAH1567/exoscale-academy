@@ -4,6 +4,6 @@ description: "This section introduces the concept of containers, their benefits,
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [docker, containers]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

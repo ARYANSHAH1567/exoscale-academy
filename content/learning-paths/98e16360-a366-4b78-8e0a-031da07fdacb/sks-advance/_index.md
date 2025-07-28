@@ -7,5 +7,5 @@ courses: 4
 weight: 3
 tags: [sks, kubernetes]
 categories: [exoscale,kubernetes]
-level: [advanced]
+level: "advanced"
 ---

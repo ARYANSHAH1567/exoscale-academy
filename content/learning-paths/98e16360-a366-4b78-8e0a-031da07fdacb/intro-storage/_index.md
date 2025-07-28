@@ -5,7 +5,7 @@ description: "If you're seeking an entry-level understanding of Exoscale's stora
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 
 ---

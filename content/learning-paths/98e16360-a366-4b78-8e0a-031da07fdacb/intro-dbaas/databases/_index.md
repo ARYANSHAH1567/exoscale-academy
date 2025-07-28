@@ -4,6 +4,6 @@ description: ""
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [databases]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

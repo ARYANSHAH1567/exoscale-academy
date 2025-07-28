@@ -5,5 +5,5 @@ banner: "images/exoscale-icon.svg"
 weight: 2
 tags: [sks, kubernetes, kubernetes-resources]
 categories: [exoscale,kubernetes]
-level: [advanced]
+level: "advanced"
 ---

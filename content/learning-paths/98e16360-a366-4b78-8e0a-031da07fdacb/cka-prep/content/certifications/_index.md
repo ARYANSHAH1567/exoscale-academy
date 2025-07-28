@@ -4,7 +4,7 @@ description: "Get an overview of the existing Kubernetes certifications and what
 title: "Certifications"
 weight: 1
 tags: [CKA, kubernetes]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

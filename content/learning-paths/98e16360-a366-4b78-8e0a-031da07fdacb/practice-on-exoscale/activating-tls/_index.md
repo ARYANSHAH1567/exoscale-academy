@@ -6,7 +6,7 @@ courseTitle: "Activating TLS"
 weight: 5
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, deployment, networking]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

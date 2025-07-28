@@ -4,7 +4,7 @@ description: "Understand StorageClass, PV and PVCs stateful applications."
 title: "Storage"
 weight: 6
 tags: [CKA, kubernetes, storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

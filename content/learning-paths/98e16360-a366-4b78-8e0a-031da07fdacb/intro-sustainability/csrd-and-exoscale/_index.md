@@ -4,7 +4,7 @@ description: ""
 banner: "images/exoscale-icon.png"
 weight: 6
 tags: [sustainability, cloud, exoscale]
-level: [introductory]
+level: "beginner"
 categories: [exoscale]
 ---
 

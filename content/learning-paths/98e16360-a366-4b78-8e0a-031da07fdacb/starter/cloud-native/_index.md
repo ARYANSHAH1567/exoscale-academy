@@ -4,6 +4,6 @@ description: "Learn the fundamentals of cloud-native technologies, including Kub
 banner: "images/exoscale-icon.png"
 weight: 4
 tags: [cloud, containers]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

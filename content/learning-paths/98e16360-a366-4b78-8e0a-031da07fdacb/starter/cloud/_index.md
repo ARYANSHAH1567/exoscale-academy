@@ -4,6 +4,6 @@ description: "Learn the fundamentals of cloud computing and how to deploy applic
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [cloud]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

@@ -4,6 +4,6 @@ description: "A scalable storage system that manages data as objects with metada
 banner: "images/exoscale-icon.svg"
 weight: 5
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

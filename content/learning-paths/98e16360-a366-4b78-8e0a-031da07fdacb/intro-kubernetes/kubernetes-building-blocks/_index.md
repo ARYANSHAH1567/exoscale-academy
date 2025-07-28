@@ -4,6 +4,6 @@ description: "This section covers the fundamental components of Kubernetes, incl
 banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [kubernetes, deployment, kubernetes-resources, job]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

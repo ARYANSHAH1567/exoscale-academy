@@ -6,6 +6,6 @@ banner: "images/exoscale-icon.svg"
 courses: 3
 weight: 2
 tags: [kubernetes, containers, orchestration, docker, sks]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

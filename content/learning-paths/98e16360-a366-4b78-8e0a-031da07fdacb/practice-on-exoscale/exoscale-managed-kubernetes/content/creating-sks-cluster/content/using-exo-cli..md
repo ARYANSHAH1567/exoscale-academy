@@ -4,7 +4,7 @@ title: "Using exo CLI"
 courseTitle: "Creating SKS Cluster"
 weight: 4
 tags: [kubernetes, exo-cli, infrastructure]
-level: [intermediate]
+level: "intermediate"
 ---
 
 The shell script sks.sh, detailed below, creates the following Exoscale resources:

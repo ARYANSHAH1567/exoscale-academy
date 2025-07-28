@@ -4,7 +4,7 @@ description: "This Intro DBaaS - Learning Paths covers the foundational topics o
 banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [databases]
-level: [introductory]
+level: "beginner"
 id: "264ccc9b-4c19-4a70-b36a-e28ded515bf3"
 categories: [exoscale,kubernetes]
 ---

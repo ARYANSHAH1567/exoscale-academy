@@ -5,5 +5,5 @@ weight: 7
 banner: "images/service.png"
 tags: [kubernetes,kubernetes-resources]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

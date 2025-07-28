@@ -4,6 +4,6 @@ description: "A low-latency storage option that stores data in fixed-size blocks
 banner: "images/exoscale-icon.svg"
 weight: 6
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

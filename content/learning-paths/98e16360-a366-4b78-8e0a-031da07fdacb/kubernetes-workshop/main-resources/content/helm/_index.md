@@ -5,5 +5,5 @@ weight: 3
 banner: "images/helm.png"
 tags: [kubernetes, infrastructure]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

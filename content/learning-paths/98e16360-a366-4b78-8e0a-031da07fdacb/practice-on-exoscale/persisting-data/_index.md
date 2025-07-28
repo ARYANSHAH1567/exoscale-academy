@@ -6,7 +6,7 @@ courseTitle: "Persisting data in DBaaS"
 weight: 7
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, databases]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

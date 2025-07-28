@@ -4,6 +4,6 @@ description: ""
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [sustainability, cloud]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

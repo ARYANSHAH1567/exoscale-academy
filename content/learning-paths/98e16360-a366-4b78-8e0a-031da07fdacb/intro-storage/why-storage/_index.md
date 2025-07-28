@@ -4,6 +4,6 @@ description: " Introduces the importance of storage in computing, enabling persi
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [storage]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

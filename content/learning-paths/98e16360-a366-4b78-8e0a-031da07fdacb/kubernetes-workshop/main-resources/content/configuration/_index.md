@@ -5,5 +5,5 @@ weight: 1
 banner: "images/configuration.png"
 tags: [kubernetes,kubernetes-resources, configuration]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

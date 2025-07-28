@@ -6,7 +6,7 @@ courseTitle: "Creating SKS Cluster"
 weight: 1
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, exoscale, exo-cli, sks, infrastructure]
-level: [intermediate]
+level: "intermediate"
 ---
 
 SKS (Scalable Kubernetes Service) is the Exoscale-managed cluster. To deploy an SKS cluster, we can use one of the 

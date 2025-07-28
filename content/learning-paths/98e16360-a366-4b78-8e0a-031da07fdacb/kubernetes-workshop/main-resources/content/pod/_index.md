@@ -5,5 +5,5 @@ weight: 6
 banner: "images/pod.png"
 tags: [kubernetes,kubernetes-resources]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

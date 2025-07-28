@@ -6,7 +6,7 @@ courseTitle: "Using Object Storage"
 weight: 8
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure]
-level: [introductory]
+level: "beginner"
 categories: [exoscale]
 ---
 

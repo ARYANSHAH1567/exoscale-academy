@@ -6,7 +6,7 @@ courseTitle: "Configuring DNS"
 weight: 4
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, deployment, networking]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

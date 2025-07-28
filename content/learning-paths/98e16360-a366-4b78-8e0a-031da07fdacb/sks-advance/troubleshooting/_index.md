@@ -5,5 +5,5 @@ banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [sks, kubernetes, troubleshooting]
 categories: [exoscale,kubernetes]
-level: [advanced]
+level: "advanced"
 ---

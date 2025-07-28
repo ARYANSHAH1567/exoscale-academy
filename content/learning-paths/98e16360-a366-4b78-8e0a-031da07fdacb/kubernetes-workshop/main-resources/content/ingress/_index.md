@@ -5,5 +5,5 @@ weight: 4
 banner: "images/ingress.png"
 tags: [kubernetes,kubernetes-resources]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

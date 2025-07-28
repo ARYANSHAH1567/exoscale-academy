@@ -6,7 +6,7 @@ courseTitle: "Exposing the VotingApp"
 weight: 3
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, kubernetes-resources]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

@@ -5,6 +5,6 @@ banner: "images/exoscale-icon.png"
 weight: 8
 id: "65bcb930-a38b-451e-aea0-8e2faaa0c0bd"
 tags: [CKA]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

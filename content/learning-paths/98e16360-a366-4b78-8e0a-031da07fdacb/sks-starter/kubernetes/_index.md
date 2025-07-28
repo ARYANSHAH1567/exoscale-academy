@@ -4,6 +4,6 @@ description: "This section provides an introduction to Kubernetes, its architect
 banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [kubernetes, orchestration, sks, kubernetes-resources]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

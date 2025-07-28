@@ -4,6 +4,6 @@ description: "This section provides an introduction to containers, their archite
 banner: "images/exoscale-icon.svg"
 weight: 2
 tags: [sks, docker, containers]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

@@ -6,7 +6,7 @@ courseTitle: "Managing Secrets with Vault"
 weight: 6
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, configuration]
-level: [advanced]
+level: "advanced"
 categories: [exoscale]
 ---
 

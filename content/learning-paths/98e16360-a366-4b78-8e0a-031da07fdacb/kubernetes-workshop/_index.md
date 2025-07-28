@@ -6,5 +6,5 @@ weight: 1
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes]
 categories: [kubernetes]
-level: [introductory]
+level: "beginner"
 ---

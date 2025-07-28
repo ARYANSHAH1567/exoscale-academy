@@ -5,6 +5,6 @@ description: "This learning path provides hands-on workshop where you’ll learn
 weight: 1
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, docker, deployment, exoscale, databases, kubernetes-resources, infrastructure]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
