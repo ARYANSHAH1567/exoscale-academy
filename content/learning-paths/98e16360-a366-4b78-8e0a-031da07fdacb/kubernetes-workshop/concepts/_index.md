@@ -55,11 +55,20 @@ To run a Pod we often rely on a higher level resource, instead of running it dir
 - Job / CronJob : batch
 - StatefulSet : stateful application
 
-![workloads](workloads.png)
+<!-- ![workloads](workloads.png) -->
+{{< meshery-design-embed
+id="embedded-design-1a9cfdfb-daaf-4c19-be93-6d9bc0f7b94d"
+src="image-3.js"
+>}}
 
 A request that reaches a Service is load-balanced between the exposed Pods
 
-![service](service.png)
+<!-- ![service](service.png) -->
+{{< meshery-design-embed
+id="embedded-design-7dd69208-b63e-49b9-8225-8b1979966f28"
+src="image-4.js"
+>}}
+
 
 
 A Pod can use several resources
