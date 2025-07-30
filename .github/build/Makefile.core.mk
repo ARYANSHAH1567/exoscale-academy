@@ -60,3 +60,4 @@ PORT:=1313
 # Build
 #-----------------------------------------------------------------------------
 RELEASE_CHANNEL="edge"
+BASEURL:="https://layer5io.github.io/exoscale-academy"

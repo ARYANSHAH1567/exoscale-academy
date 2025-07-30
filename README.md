@@ -35,7 +35,7 @@ Before you begin, ensure you have:
    - Edit `go.mod` and update the module path to match your fork. Save and commit.
 
 3. **Organization UID**
-   - All Exoscale Academy content is namespaced under the UID:
+   - All Exoscale Academy content is namespaced under its Organization ID:
      ```
      98e16360-a366-4b78-8e0a-031da07fdacb
      ```
