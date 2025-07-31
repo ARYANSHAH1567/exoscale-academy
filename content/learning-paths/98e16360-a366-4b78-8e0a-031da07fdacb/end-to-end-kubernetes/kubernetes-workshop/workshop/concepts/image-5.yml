@@ -1,7 +1,7 @@
 id: c30516a2-2448-47d2-8fce-6758808c4614
 name: Kubernetes Workshop Image-5
 schemaVersion: designs.meshery.io/v1beta1
-version: 0.0.138
+version: 0.0.235
 metadata:
   resolvedAliases: {}
 components:
@@ -62,19 +62,20 @@ components:
       body-text-text-decoration: none
       body-text-vertical-align: center
       border-width: 0
-      height: 26.247509
+      height: 27.355238
+      locked: true
       opacity: 1
       padding: 6
       position:
-        x: 47.753025494263454
-        y: -91.83594512755211
+        x: 66.18444306398271
+        y: -55.9747757298865
       primaryColor: '#326CE5'
       secondaryColor: '#7aa1f0'
       shape: bottom-round-rectangle
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/configmap-color.svg
       svgComplete: ""
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/configmap-white.svg
-      width: 29.487572
+      width: 30.732042
       z-index: 1
     capabilities: []
     status: enabled
@@ -155,12 +156,13 @@ components:
       border-width: 1
       data:
         label: ""
-      height: 27.333328
+      height: 31.613491
+      locked: true
       opacity: 1
       padding: 6
       position:
-        x: 352.0028701710809
-        y: -82.67588484390009
+        x: 378.4331697524385
+        y: -80.94299493898473
       primaryColor: rgb(0,180,216)
       secondaryColor: '#00D3A9'
       shape: polygon
@@ -168,7 +170,7 @@ components:
       svgColor: ui/public/static/img/meshmodels/meshery-arrows/color/leftrightarrow-color.svg
       svgComplete: ui/public/static/img/meshmodels/meshery-arrows/complete/leftrightarrow-complete.svg
       svgWhite: ui/public/static/img/meshmodels/meshery-arrows/white/leftrightarrow-white.svg
-      width: 114.85969
+      width: 180.45375
       z-index: 295
     capabilities: []
     status: enabled
@@ -235,16 +237,19 @@ components:
       background-image: none
       background-opacity: 0.5
       border-style: dashed
-      border-width: 2
+      border-width: 0
+      height: 316.18082
+      locked: true
       position:
-        x: 208.98039208017508
-        y: -191.61557948781723
-      primaryColor: '#326CE5'
+        x: 233.53831680389283
+        y: -180.58999599979256
+      primaryColor: '#2383dd'
       secondaryColor: '#7aa1f0'
       shape: rectangle
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/namespace-color.svg
       svgComplete: ui/public/static/img/meshmodels/kubernetes/complete/namespace-complete.svg
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/namespace-white.svg
+      width: 657.21533
       z-index: 7
     capabilities: []
     status: enabled
@@ -318,19 +323,20 @@ components:
       body-text-text-decoration: none
       body-text-vertical-align: center
       border-width: 0
-      height: 24.02662
+      height: 25.04062
+      locked: true
       opacity: 1
       padding: 6
       position:
-        x: 492.6008530178365
-        y: -92.71219484591215
+        x: 519.4494537699723
+        y: -80.72783577033967
       primaryColor: '#326CE5'
       secondaryColor: '#7aa1f0'
       shape: round-rectangle
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/persistentvolume-color.svg
       svgComplete: ""
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/persistentvolume-white.svg
-      width: 37.329243
+      width: 38.904655
       z-index: 2
     capabilities: []
     status: enabled
@@ -407,20 +413,20 @@ components:
       body-text-text-decoration: none
       body-text-vertical-align: center
       border-width: 0
-      height: 27.290226
-      locked: false
+      height: 28.441961
+      locked: true
       opacity: 1
       padding: 6
       position:
-        x: 178.2006021974354
-        y: -95.52612196711117
+        x: 200.75880161887653
+        y: -87.61193811437055
       primaryColor: '#326CE5'
       secondaryColor: '#7aa1f0'
       shape: round-rectangle
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/persistentvolumeclaim-color.svg
       svgComplete: ""
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/persistentvolumeclaim-white.svg
-      width: 42.961094
+      width: 44.77419
       z-index: 3
     capabilities: []
     status: enabled
@@ -497,19 +503,20 @@ components:
       body-text-text-decoration: none
       body-text-vertical-align: center
       border-width: 2
-      height: 40.42367
+      height: 42.129677
+      locked: true
       opacity: 1
       padding: 6
       position:
-        x: 45.658832226624185
-        y: -314.13831500852325
+        x: 61.04140643551884
+        y: -322.8179967696986
       primaryColor: '#326CE5'
       secondaryColor: '#7aa1f0'
       shape: round-rectangle
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/pod-color.svg
       svgComplete: ui/public/static/img/meshmodels/kubernetes/complete/pod-complete.svg
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/pod-white.svg
-      width: 66.17694
+      width: 68.96982
       z-index: 4
     capabilities: []
     status: enabled
@@ -588,19 +595,20 @@ components:
       body-text-text-decoration: none
       body-text-vertical-align: center
       border-width: 0
-      height: 41.730003
+      height: 43.491142
+      locked: true
       opacity: 1
       padding: 1
       position:
-        x: -85.79483485748634
-        y: -89.9441698349293
+        x: -62.52124016218659
+        y: -76.65185352855234
       primaryColor: '#326CE5'
       secondaryColor: '#7aa1f0'
       shape: shield
       svgColor: ui/public/static/img/meshmodels/kubernetes/color/secret-color.svg
       svgComplete: ui/public/static/img/meshmodels/kubernetes/complete/secret-complete.svg
       svgWhite: ui/public/static/img/meshmodels/kubernetes/white/secret-white.svg
-      width: 47.690468
+      width: 49.70316
       z-index: 0
     capabilities: []
     status: enabled
@@ -696,82 +704,6 @@ components:
         - fc00fe8b-4f85-405e-9229-f0e5ea46373b
       isTemporary: false
       order: 1753463135588
-    component:
-      version: core.meshery.io/v1alpha1
-      kind: Group
-      schema: ""
-  - id: fefdf5a7-947b-4001-9773-d944116e2bc4
-    schemaVersion: components.meshery.io/v1beta1
-    version: v1.0.0
-    displayName: ""
-    description: ""
-    format: JSON
-    model:
-      id: 00000000-0000-0000-0000-000000000000
-      schemaVersion: ""
-      version: ""
-      name: kanvas-local
-      displayName: ""
-      status: ""
-      registrant:
-        id: 00000000-0000-0000-0000-000000000000
-        name: ""
-        type: ""
-        sub_type: ""
-        kind: ""
-        status: ""
-        created_at: "0001-01-01T00:00:00Z"
-        updated_at: "0001-01-01T00:00:00Z"
-        deleted_at: null
-        schemaVersion: ""
-      connection_id: 00000000-0000-0000-0000-000000000000
-      category:
-        id: 00000000-0000-0000-0000-000000000000
-        name: ""
-      subCategory: ""
-      metadata: null
-      model:
-        version: ""
-      components_count: 0
-      relationships_count: 0
-      components: null
-      relationships: null
-    styles: null
-    capabilities:
-      - description: Configure the visual styles for the component
-        displayName: Styling
-        entityState:
-          - declaration
-        key: ""
-        kind: mutate
-        schemaVersion: capability.meshery.io/v1alpha1
-        status: enabled
-        subType: ""
-        type: style
-        version: 0.7.0
-    status: enabled
-    metadata:
-      configurationUISchema: ""
-      genealogy: ""
-      instanceDetails: null
-      isAnnotation: false
-      isNamespaced: false
-      published: false
-    configuration:
-      child_component_ids:
-        - 25fe9711-9ebd-4fde-8d54-0fe67816e561
-        - 3e0c1a82-645c-45d3-a719-7213683fa02d
-        - 814d9c7a-4f3b-41b2-ba93-b5a05e595352
-        - ae79ae09-0c85-452f-874d-f9ff5da45fd8
-        - f1054af4-273e-4fa2-af37-ae3fe189e428
-        - 06eff055-b1f6-4907-aa34-1e37c7b7522b
-        - 5a576f03-9ebd-4c44-a651-dc58b99b1231
-        - 19dcd833-8967-4608-bdde-56ee86a3e8fd
-        - a1b44193-4d02-44d7-9e6e-edeb06faf5a3
-        - b86f2395-d2ce-4b9b-af0a-e0ea97938ba0
-        - fc00fe8b-4f85-405e-9229-f0e5ea46373b
-      isTemporary: true
-      order: 1753519359747
     component:
       version: core.meshery.io/v1alpha1
       kind: Group
