@@ -7,4 +7,5 @@ banner: "images/exoscale-icon.png"
 weight: 1
 tags: [cloud]
 categories: "cloud"
+level: "beginner"
 ---
