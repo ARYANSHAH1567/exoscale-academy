@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Check"
+title: "Quiz"
 id: "csrd-and-providers"
 passing_percentage: 70
 questions:

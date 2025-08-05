@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Check"
+title: "Quiz"
 id: "kubernetes-building-blocks"
 passing_percentage: 70
 questions:

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Check"
+title: "Quiz"
 id: "what-types-of-storage"
 passing_percentage: 70
 questions:

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Check"
+title: "Quiz"
 id: "object-storage"
 passing_percentage: 70
 questions:
