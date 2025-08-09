@@ -54,7 +54,7 @@ Before you begin, ensure you have:
 3. **Organization UID**
    - All Exoscale Academy content is namespaced under its Organization ID:
      ```
-     98e16360-a366-4b78-8e0a-031da07fdacb
+     1e2a8e46-937c-47ea-ab43-5716e3bcab2e
      ```
 
 ## Repository Structure
@@ -69,23 +69,23 @@ layer5io-exoscale-academy/
 ├── content/
 │   └── en/
 │       └── learning-paths/
-│           └── 98e16360-a366-4b78-8e0a-031da07fdacb/
+│           └── 1e2a8e46-937c-47ea-ab43-5716e3bcab2e/
 │               └── /
 │                   └── /
 │                       └── /
 │                           └── content/
 │                               └── .md
 ├── static/
-│   └── 98e16360-a366-4b78-8e0a-031da07fdacb/
+│   └── 1e2a8e46-937c-47ea-ab43-5716e3bcab2e/
 │       └── images/
 ├── layouts/
 │   └── shortcodes/
-│       └── 98e16360-a366-4b78-8e0a-031da07fdacb/
+│       └── 1e2a8e46-937c-47ea-ab43-5716e3bcab2e/
 │           └── custom-org-shortcode.html
 └── .github/
     └── ISSUE_TEMPLATE/, workflows/, config, etc.
 ```
-> **Learning Path → Course → Chapter → Lesson** is the core structure.  
+> **Learning Path → Course → Chapter → Lesson** is the core structure.
 Each level uses `_index.md` and lessons use `.md` files with [Hugo frontmatter](https://gohugo.io/content-management/front-matter/).
 
 ## Content Authoring Workflow
@@ -94,7 +94,7 @@ Each level uses `_index.md` and lessons use `.md` files with [Hugo frontmatter](
 
    - Authoring takes place inside:
      ```
-     content/en/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/
+     content/en/learning-paths/1e2a8e46-937c-47ea-ab43-5716e3bcab2e/
      ```
    - Structure:
      ```
@@ -131,7 +131,7 @@ Enhance your courses with images and rich visual content. For compatibility with
 1. Place your image (example: `exoscale-logo.png`) in the organization’s static directory:
 
     ```
-    static/98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-logo.png
+    static/1e2a8e46-937c-47ea-ab43-5716e3bcab2e/images/exoscale-logo.png
     ```
 
 2. In lesson markdown, embed your image using the `usestatic` shortcode (path is relative to your org’s folder):
@@ -156,12 +156,12 @@ Embed videos in a visually distinct `card` using:
 ```
 ## How to Add a Meshery Design
 
-1. Place Design Assets  
+1. Place Design Assets
    Put your design files (e.g., `cdn.js`, design YAMLs) alongside your course or lesson content, ideally following the same directory conventions used for images.
 
-2. Embed Using the meshery-design-embed Shortcode  
+2. Embed Using the meshery-design-embed Shortcode
    In your lesson markdown, use:
-  
+
   ```markdown
   {{< meshery-design-embed
   id="embedded-design-0e3abb9c-39e7-4d09-b46f-26a0238c3c3d"
@@ -209,5 +209,5 @@ Distributed under the [Apache 2.0 License](./LICENSE).
 
 For questions or help, open a [GitHub Issue](https://github.com/layer5io/exoscale-academy/issues) or join the [Layer5 Slack Community](https://slack.layer5.io/).
 
-**Happy Learning!**  
+**Happy Learning!**
 _The Layer5 & Exoscale Academy Team_
