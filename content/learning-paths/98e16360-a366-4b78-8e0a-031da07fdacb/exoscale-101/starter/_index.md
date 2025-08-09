@@ -6,6 +6,6 @@ description: "This starter course is the foundation for building Exoscale knowle
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [cloud,exoscale]
-level: "beginner"
+level: "intermediate"
 categories: "platform"
 ---

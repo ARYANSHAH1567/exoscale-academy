@@ -7,4 +7,5 @@ id: "df4def0c-5f17-4e7b-a137-5e7fdc7b2ead"
 weight: 1
 tags: [kubernetes]
 categories: "kubernetes"
+level: "intermediate"
 ---

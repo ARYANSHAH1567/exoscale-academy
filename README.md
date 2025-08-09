@@ -2,6 +2,23 @@
 
 Welcome to **Exoscale Academy**, the dedicated cloud education and training platform powered by Layer5. This repository provides a comprehensive framework for creating, organizing, and publishing structured learning paths, courses, and lessons tailored for Exoscale users and cloud practitioners.
 
+## Design Resources
+
+To help you create professional and visually consistent content, this academy provides the official **Exoscale Icons** model for building custom architecture diagrams.
+
+> You can preview the full collection of icons anytime on the [**Meshery Catalog**](https://meshery.io/catalog/models/exoscale-icons).
+
+### How to Use the Icons
+
+1.  **Import the Model:** Navigate to your **[Registry Settings in Meshery](https://kanvas.new/settings?settingsCategory=Registry&tab=Models)**.
+2.  Select "Import from URL".
+3.  Paste the following URL to import the icon set:
+    ```
+    https://meshery.io/assets/modelsFiles/exoscale-icons.tar
+    ```
+
+Once imported, the individual Exoscale icons will be available in the Designer's **shapes** palette for you to use.
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
